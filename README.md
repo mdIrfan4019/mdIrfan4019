@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=170&section=header&text=Hi%20👋,%20I'm%20Md%20Irfan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+
 # 💫 About Me:
 i am a problem solver .<br>having good knowledge in backend and frontend.<br>i am a machine learning enthusiast.<br>working  very well with ai tools .<br>communicating very well .<br>hardworking and eager to explore new technologies
 
