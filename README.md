@@ -42,7 +42,6 @@
 ---
 
 ## 📊 GitHub Stats:
-## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdIrfan4019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
