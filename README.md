@@ -42,11 +42,13 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdIrfan4019&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+## 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=mdIrfan4019&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdIrfan4019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdIrfan4019&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mdIrfan4019&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdIrfan4019&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
